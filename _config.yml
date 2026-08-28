@@ -1,14 +1,14 @@
 # Site settings
-title: Your Name
+title: ultrabytecoder blog
 description: >-
   Personal blog and portfolio. Thoughts, writing, and projects.
-author: Your Name
-email: you@example.com
+author: ultrabytecoder
+email: ultrabytecoder@email.com
 
 # URL settings (change these for your repo!)
 # For user/org pages (username.github.io), leave baseurl empty
 # For project pages (username.github.io/repo-name), set baseurl: "/repo-name"
-url: "https://username.github.io"
+url: "https://ultrabytecoder.github.io"
 baseurl: ""
 
 # Build settings
