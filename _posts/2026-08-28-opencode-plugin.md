@@ -77,6 +77,8 @@ export const LoopDetection: Plugin = async ({ client }) => {
 
 ## Installation
 
+The plugin is available on GitHub: https://github.com/ultrabytecoder/opencode-loop-detection
+
 Drop the file into your opencode plugins directory:
 
 ```bash
