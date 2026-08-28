@@ -4,28 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm **Your Name**, a developer, writer, and lifelong learner.
+## About Me
 
-## What I Do
-
-- 🔧 Build things for the web
-- ✍️ Write about technology, design, and life
-- 📚 Read broadly and curious deeply
+I'm an experienced software developer with a strong interest in AI and blockchain technology.
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Ruby, Go
-- **Frontend:** HTML, CSS, React, Vue
-- **Backend:** Node.js, Rails, Express
-- **Tools:** Git, Docker, AWS
-
-## Connect
-
-Feel free to reach out via [email](mailto:you@example.com) or follow me on
-[GitHub](https://github.com/yourusername) and [Twitter](https://twitter.com/yourusername).
-
-## About This Site
-
-This site is built with [Jekyll](https://jekyllrb.com/) and hosted on
-[GitHub Pages](https://pages.github.com/). The source code is available
-on [my GitHub](https://github.com/yourusername/my-website).
+- **Languages:** Java, Go, Kotlin, Python, JavaScript, C/C++, C#, Rust
+- **Frontend:** Angular, React, Electron
+- **Mobile:** Kotlin Multiplatform, Compose (Android), SwiftUI (iOS)
+- **Tools:** Docker, Kubernetes, AWS
