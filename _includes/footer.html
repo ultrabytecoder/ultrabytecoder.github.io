@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-left">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+    </div>
+    <div class="footer-right">
+      {% if site.data.social %}
+        <nav class="social-links" aria-label="Social links">
+          {% for link in site.data.social.links %}
+            <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>
+          {% endfor %}
+        </nav>
+      {% endif %}
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
+    </div>
+  </div>
+</footer>
+
+<script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
